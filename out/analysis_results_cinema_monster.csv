@@ -1,0 +1,752 @@
+img_pair,coherence_score,coherence_explanation,bias_score_img1,bias_score_img2,biases,visual_consistency,narrative_entity_persistence
+1_2,0.9,"The images show a clear narrative progression from the alien monster emerging from the screen to the aftermath of its attack, with consistent visual style and setting.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""demographicBias"": ""Audience appears to be predominantly male-presenting"",
+            ""spatialBias"": ""Western-style movie theater setting""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""stylistic_bias"": ""Heavily influenced by Alien franchise aesthetic""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""alien monster design"",
+        ""cinema theater setting"",
+        ""blue-tinted lighting"",
+        ""hyperrealistic rendering style"",
+        ""theater seats"",
+        ""screen perspective""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""alien monster"", ""type"": ""character"", ""description"": ""Maintains same design and threatening presence in both images""},
+        {""element"": ""theater setting"", ""type"": ""environment"", ""description"": ""Continues in same location with identical architectural elements""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Consistent blue-tinted, dramatic lighting scheme""},
+        {""element"": ""transformation theme"", ""type"": ""narrative"", ""description"": ""Progresses from monster emerging to multiple transformations""}
+    ]
+}"
+2_3,0.85,The images show a clear narrative progression from the alien monster attacking and transforming audience members to it becoming more powerful and threatening to extend its terror beyond the cinema.,0.1,0.1,"{
+    ""img1"": {
+        ""biases"": {
+            ""violenceBias"": ""Depicts extreme sci-fi violence as entertainment"",
+            ""genreBias"": ""Heavily influenced by specific Hollywood alien horror aesthetics""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""violenceBias"": ""Graphic depiction of monster violence"",
+            ""powerDynamicsBias"": ""Portrays complete dominance over masses""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Alien xenomorph design"",
+        ""Dark atmospheric lighting"",
+        ""Cinema/theatrical setting"",
+        ""Hyperrealistic rendering style"",
+        ""Dramatic action composition""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""Xenomorph monster"", ""type"": ""character"", ""description"": ""Maintains consistent design and grows more threatening""},
+        {""element"": ""Cinema setting"", ""type"": ""environment"", ""description"": ""Progresses from screen to theater interior""},
+        {""element"": ""Horror atmosphere"", ""type"": ""mood"", ""description"": ""Intensifies from transformation scene to mass attack""},
+        {""element"": ""Audience presence"", ""type"": ""object"", ""description"": ""Changes from scattered victims to dense crowd""}
+    ]
+}"
+3_4,0.9,"The images show a clear narrative progression from the monster's attack in the cinema to its emergence into the city streets, with consistent visual style and monster design.",0.2,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""crowdRepresentation"": ""Generic silhouetted crowd with no distinguishing characteristics"",
+            ""urbanSetting"": ""Generic western-style interior architecture""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""militaryRepresentation"": ""Standardized western military equipment and personnel"",
+            ""urbanEnvironment"": ""Western/American city architecture and infrastructure"",
+            ""culturalDominance"": ""English-language signage and western urban planning""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""alien/monster design"",
+        ""dark/moody lighting"",
+        ""hyperrealistic rendering style"",
+        ""threatening atmosphere"",
+        ""urban environment"",
+        ""crowd presence""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""alien monster"", ""type"": ""character"", ""description"": ""maintains consistent biomechanical design and threatening presence""},
+        {""element"": ""crowd elements"", ""type"": ""object"", ""description"": ""transforms from civilian victims to military response""},
+        {""element"": ""urban setting"", ""type"": ""aesthetic"", ""description"": ""moves from interior to exterior but maintains architectural style""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""continues dark, high-contrast atmospheric lighting""}
+    ]
+}"
+4_5,0.9,"The images show strong narrative continuity, depicting the same monster-versus-military conflict scenario with consistent visual style, setting, and tone. Both maintain the hyperrealistic movie aesthetic mentioned in the prompts.",0.3,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""militaryBias"": ""Portrays conventional military as only solution to threats"",
+            ""urbanBias"": ""Centers conflict in Western-style city setting"",
+            ""technologicalBias"": ""Heavily favors modern military technology as power solution""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""militaryBias"": ""Continues emphasis on military force"",
+            ""violenceBias"": ""Focuses on destructive conflict resolution"",
+            ""westernCentricBias"": ""Depicts Western-style military and architecture""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Monster design and scale"",
+        ""Urban setting"",
+        ""Military presence"",
+        ""Dramatic lighting and atmosphere"",
+        ""Hyperrealistic rendering style"",
+        ""Color palette"",
+        ""Building architecture""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""Monster"", ""type"": ""character"", ""description"": ""Maintains consistent design and threatening presence""},
+        {""element"": ""Military forces"", ""type"": ""character"", ""description"": ""Continues showing organized resistance""},
+        {""element"": ""Urban battlefield"", ""type"": ""setting"", ""description"": ""Consistent city environment and destruction""},
+        {""element"": ""Dramatic atmosphere"", ""type"": ""aesthetic"", ""description"": ""Maintains dark, tense mood with similar lighting""},
+        {""element"": ""Combat scenario"", ""type"": ""mood"", ""description"": ""Continues the military versus monster conflict""}
+    ]
+}"
+5_6,0.85,"The images maintain strong narrative continuity, showing an escalating battle between military forces and giant beings, though the transition from organic monster to mechanical entities represents a slight deviation.",0.3,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""militaryBias"": ""Depicts conventional military forces in traditional combat gear"",
+            ""urbanBias"": ""Shows Western-style urban architecture""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""militaryBias"": ""Continues Western military equipment representation"",
+            ""technologicalBias"": ""Presents advanced technology with distinctly Western/sci-fi aesthetic""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""military forces"",
+        ""urban setting"",
+        ""dramatic lighting"",
+        ""sense of scale"",
+        ""combat scenario"",
+        ""atmospheric effects"",
+        ""destructive environment""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""military forces"", ""type"": ""character"", ""description"": ""Soldiers and tanks remain present in both scenes""},
+        {""element"": ""giant antagonist"", ""type"": ""character"", ""description"": ""Transforms from organic monster to mechanical beings""},
+        {""element"": ""battle atmosphere"", ""type"": ""mood"", ""description"": ""Maintains intense combat scenario""},
+        {""element"": ""scale contrast"", ""type"": ""aesthetic"", ""description"": ""Continues dramatic size difference between humans and giants""}
+    ]
+}"
+6_7,0.7,"The images share a thematic connection of battle preparation and supernatural/technological elements, though they differ significantly in scale and tone. The transition from large-scale combat to personal transformation maintains narrative flow but shows a notable shift in focus.",0.4,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""militaryBias"": ""Presents conventional military force as primary solution"",
+            ""technologicalBias"": ""Assumes advanced technology as superior force""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""westernBias"": ""Fantasy character design follows Western medieval armor traditions"",
+            ""physicalBias"": ""Implies need for physical transformation for effectiveness""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""combat/military themes"",
+        ""fantasy/sci-fi elements"",
+        ""dramatic lighting"",
+        ""hyperrealistic rendering style"",
+        ""armor/combat equipment""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""combat preparation"", ""type"": ""theme"", ""description"": ""transitions from large-scale to personal combat readiness""},
+        {""element"": ""technological/magical enhancement"", ""type"": ""concept"", ""description"": ""shifts from giant mechs to personal avatar companion""},
+        {""element"": ""dramatic atmosphere"", ""type"": ""aesthetic"", ""description"": ""maintains serious tone with dramatic lighting and composition""}
+    ]
+}"
+7_8,0.85,"The images show a clear narrative progression from the preparation for battle (avatar/warrior appearing) to the climactic monster destruction, maintaining consistent dramatic and hyperrealistic style.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""aestheticBias"": ""Western fantasy/medieval armor design"",
+            ""characterDesign"": ""Cute/appealing avatar design following animation trends""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""environmentalBias"": ""Urban/modern city setting typical of kaiju movies"",
+            ""styleBias"": ""Hollywood-style explosion aesthetics""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""hyperrealistic rendering"",
+        ""cinematic composition"",
+        ""fantasy/action genre elements"",
+        ""dark/moody atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {
+            ""element"": ""battle theme"",
+            ""type"": ""mood"",
+            ""description"": ""continues from preparation to climactic conclusion""
+        },
+        {
+            ""element"": ""dramatic lighting"",
+            ""type"": ""aesthetic"",
+            ""description"": ""maintains dark atmosphere with dramatic highlights""
+        },
+        {
+            ""element"": ""fantasy combat"",
+            ""type"": ""theme"",
+            ""description"": ""progresses from warrior preparation to monster destruction""
+        }
+    ]
+}"
+8_9,0.7,"While both images maintain the hyperrealistic movie style and dramatic scenes, they represent quite different scenarios - from destruction to creation/evolution. The visual quality and cinematic nature are consistent, but the narrative shift is significant.",0.2,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""culturalBias"": ""Japanese kaiju/monster movie aesthetic"",
+            ""geographicBias"": ""Urban setting suggesting developed city environment""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""Advanced civilization depicted through Western sci-fi lens"",
+            ""humancentricBias"": ""Positions humans as central to evolutionary advancement""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""cinematic lighting"",
+        ""dramatic composition"",
+        ""high-quality rendering"",
+        ""sci-fi elements"",
+        ""epic scale""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Both images use strong lighting effects to create impact""},
+        {""element"": ""otherworldly beings"", ""type"": ""character"", ""description"": ""Transitions from destructive monster to advanced alien/robot beings""},
+        {""element"": ""epic scale"", ""type"": ""mood"", ""description"": ""Both images depict events of massive scale and significance""}
+    ]
+}"
+9_10,0.7,"The images maintain thematic consistency through sci-fi/alien invasion elements and global threats, though they shift from colonization to viral infection narratives.",0.4,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""technological_superiority"": ""Advanced beings portrayed as dominant/superior"",
+            ""western_centric"": ""Earth visualization shows prominent North American lighting""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""threat_representation"": ""Portrayal of virus/infection as monstrous humanoid figure"",
+            ""power_dynamics"": ""Council members shown in identical, simplified forms""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Earth as backdrop"",
+        ""Sci-fi aesthetic"",
+        ""Multiple figures/entities"",
+        ""Dramatic lighting"",
+        ""Hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""Earth"", ""type"": ""setting"", ""description"": ""Remains central focus point in both images""},
+        {""element"": ""Otherworldly threat"", ""type"": ""character"", ""description"": ""Transforms from robotic beings to viral entity""},
+        {""element"": ""Multiple observers"", ""type"": ""character"", ""description"": ""Shifts from crowd to council members""},
+        {""element"": ""Dramatic atmosphere"", ""type"": ""mood"", ""description"": ""Maintains ominous, apocalyptic tone""}
+    ]
+}"
+10_11,0.85,"The images show a clear progression of the virus/monster narrative, from initial transformation and infection to digital spread, maintaining consistent visual elements and thematic progression.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""technologicalBias"": ""Depicts advanced technology as threatening"",
+            ""representationalBias"": ""Generic silhouetted figures suggest institutional uniformity""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""Portrays technology and digital devices as vectors of destruction"",
+            ""urbanBias"": ""Focuses on technological urban landscape, excluding rural contexts""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""virus/biological particles"",
+        ""blue color palette"",
+        ""global/earth imagery"",
+        ""technological/digital elements"",
+        ""dramatic lighting"",
+        ""hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""virus motif"", ""type"": ""object"", ""description"": ""evolves from biological to digital virus particles""},
+        {""element"": ""global threat"", ""type"": ""mood"", ""description"": ""maintains worldwide scale of infection""},
+        {""element"": ""monster essence"", ""type"": ""character"", ""description"": ""transforms from physical to digital form""},
+        {""element"": ""technological interface"", ""type"": ""object"", ""description"": ""progresses from projection screen to multiple screens""}
+    ]
+}"
+11_12,0.85,"The images strongly maintain narrative continuity, showing the progression from digital virus infection through screens to humanity's adaptation using audio technology. The virus imagery and technological themes remain consistent while logically evolving.",0.2,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""technologicalBias"": ""Depicts advanced digital technology as inherently threatening"",
+            ""urbanBias"": ""Shows only modern city environment""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""urbanBias"": ""Predominantly urban setting"",
+            ""socioeconomicBias"": ""Implies access to technology and resources for adaptation""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""virus particle imagery"",
+        ""urban environment"",
+        ""blue/cyan color scheme"",
+        ""technological elements"",
+        ""apocalyptic atmosphere"",
+        ""dramatic lighting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""virus particles"", ""type"": ""object"", ""description"": ""Maintains presence in both images but transforms from digital to physical form""},
+        {""element"": ""urban setting"", ""type"": ""environment"", ""description"": ""Continues from digital cityscape to physical urban environment""},
+        {""element"": ""technological theme"", ""type"": ""aesthetic"", ""description"": ""Evolves from screens/digital to radio/analog""},
+        {""element"": ""apocalyptic mood"", ""type"": ""mood"", ""description"": ""Persists through both images with consistent sense of societal transformation""}
+    ]
+}"
+12_13,0.85,"The images strongly maintain thematic consistency around a dystopian future affected by a visual/screen-based virus, with both depicting similar urban environments and the consequences of technological abandonment.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""technologicalBias"": ""Depicts technology as a threat/danger"",
+            ""urbanBias"": ""Focuses on city-centric apocalyptic scenario""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""urbanBias"": ""Continues city-centric perspective"",
+            ""conformityBias"": ""Shows uniformly robed figures suggesting collective behavior""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""futuristic cityscape"",
+        ""dark/moody atmosphere"",
+        ""blue-tinted color palette"",
+        ""tall buildings/structures"",
+        ""dystopian aesthetic""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""urban environment"", ""type"": ""setting"", ""description"": ""maintains futuristic city setting with tall structures""},
+        {""element"": ""technological downfall"", ""type"": ""theme"", ""description"": ""progression from active destruction to abandoned aftermath""},
+        {""element"": ""collective human response"", ""type"": ""mood"", ""description"": ""shifts from chaos to organized resignation""},
+        {""element"": ""lighting"", ""type"": ""aesthetic"", ""description"": ""maintains dramatic lighting with strong contrast""}
+    ]
+}"
+13_14,0.4,"While both images share a dramatic, surreal quality and similar lighting effects, they represent vastly different scenarios and themes with little narrative connection between the dystopian first image and the aspirational second image.",0.2,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""socialBias"": ""Depicts dystopian society as uniformly cloaked/hidden"",
+            ""technologicalBias"": ""Suggests technology leads to downfall""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderBias"": ""Represents scientist in stereotypical lab coat/clinical setting"",
+            ""professionalBias"": ""Reinforces traditional imagery of scientific profession""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""ethereal lighting"",
+        ""blue color palette"",
+        ""dramatic atmosphere"",
+        ""vertical composition"",
+        ""surreal elements""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""mystical lighting"", ""type"": ""aesthetic"", ""description"": ""Both images use bright, ethereal light sources""},
+        {""element"": ""vertical structures"", ""type"": ""object"", ""description"": ""First image shows vertical city structures, second shows vertical tree and stairway""},
+        {""element"": ""symbolism"", ""type"": ""mood"", ""description"": ""Both use symbolic elements to convey deeper meaning""}
+    ]
+}"
+14_15,0.8,"The images show a clear narrative progression from a scientist's mystical encounter with a heart/key symbol to a dramatic apocalyptic scene with alien intervention. The aesthetic style, dramatic lighting, and sci-fi elements remain consistent.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""professionalBias"": ""Depicts traditional lab coat and scientific equipment stereotypes"",
+            ""aestheticBias"": ""Western scientific/medical imagery""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""apocalypticBias"": ""Western sci-fi representation of apocalypse"",
+            ""technologicalBias"": ""Advanced alien technology portrayed in typical UFO style""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""mystical/supernatural elements"",
+        ""celestial bodies (moon/planets)"",
+        ""blue-tinted color scheme"",
+        ""cloudy atmospheric effects"",
+        ""scientific/medical themes""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""central figure"", ""type"": ""character"", ""description"": ""transitions from observer to focal point of supernatural event""},
+        {""element"": ""celestial backdrop"", ""type"": ""aesthetic"", ""description"": ""maintains cosmic setting with moon/planets""},
+        {""element"": ""mystical light"", ""type"": ""aesthetic"", ""description"": ""evolves from heart illumination to alien beam""},
+        {""element"": ""scientific theme"", ""type"": ""mood"", ""description"": ""transforms from medical research to sci-fi scenario""}
+    ]
+}"
+15_16,0.85,"The images maintain strong narrative continuity, showing the progression from the scientist's abduction by the light beam to her subsequent situation, with consistent sci-fi and dramatic elements throughout.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""messiahBias"": ""portrayal of singular savior figure as humanity's only hope"",
+            ""powerDynamics"": ""depicts masses as helpless without a leader""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""professionalStereotype"": ""traditional 'scientist in lab coat' imagery"",
+            ""aestheticBias"": ""western sci-fi visual conventions""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""ethereal lighting"",
+        ""dramatic atmosphere"",
+        ""sci-fi aesthetic"",
+        ""blue-tinted color palette"",
+        ""mysterious ambiance""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""light beam"", ""type"": ""visual motif"", ""description"": ""transforms from abduction beam to ambient lighting""},
+        {""element"": ""scientific theme"", ""type"": ""narrative element"", ""description"": ""continues through both images with lab equipment and settings""},
+        {""element"": ""mysterious atmosphere"", ""type"": ""mood"", ""description"": ""maintains dark, enigmatic environment""},
+        {""element"": ""otherworldly elements"", ""type"": ""aesthetic"", ""description"": ""continues through supernatural lighting and ambiance""}
+    ]
+}"
+16_17,0.85,"The images show a strong narrative progression from a dark, mysterious setting with the scientist to a high-tech laboratory scene focusing on the child, matching the prompts' story development.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Traditional portrayal of female scientist with stylized appearance despite professional setting"",
+            ""professionalBias"": ""Dramatic lighting and appearance prioritized over realistic scientific portrayal""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""ageism"": ""Child portrayed as exceptional/mystical figure"",
+            ""professionalBias"": ""Scientists depicted in stereotypical lab coats and clinical setting""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue-tinted lighting"",
+        ""scientific/laboratory environment"",
+        ""dramatic lighting effects"",
+        ""DNA/genetic imagery"",
+        ""futuristic technology aesthetic""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientific setting"", ""type"": ""aesthetic"", ""description"": ""Transitions from dark lab to high-tech facility""},
+        {""element"": ""mysterious atmosphere"", ""type"": ""mood"", ""description"": ""Maintains supernatural/mystical quality in both scenes""},
+        {""element"": ""genetic/DNA imagery"", ""type"": ""object"", ""description"": ""Blue glowing elements present in both images""},
+        {""element"": ""light streams"", ""type"": ""aesthetic"", ""description"": ""Vertical light elements persist across both images""}
+    ]
+}"
+17_18,0.85,"The images maintain strong narrative continuity, showing progression from laboratory investigation to discovery of an immune population. Both share consistent sci-fi aesthetics and themes of vision/sight.",0.4,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""professionalBias"": ""Scientists depicted in traditional lab coats reinforcing stereotypical representation"",
+            ""technologicalBias"": ""Advanced technology portrayed in western/developed world context""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""mysticalBias"": ""Portrayal of tribe with glowing eyes suggests exotic/supernatural attributes"",
+            ""otherization"": ""Presentation of the immune group as mysterious 'others'""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue color palette"",
+        ""dramatic lighting"",
+        ""circular/halo motifs"",
+        ""backlit figures"",
+        ""sci-fi aesthetic"",
+        ""hyperrealistic art style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""mystical child"", ""type"": ""character"", ""description"": ""Focus subject in both images, represented by central positioning""},
+        {""element"": ""scientific discovery"", ""type"": ""theme"", ""description"": ""Transitions from lab research to field discovery""},
+        {""element"": ""vision/sight motif"", ""type"": ""aesthetic"", ""description"": ""Represented by blue glow/lights in both images""},
+        {""element"": ""circular light source"", ""type"": ""aesthetic"", ""description"": ""DNA sphere in first image evolves to celestial light in second""}
+    ]
+}"
+18_19,0.8,"The images show a clear narrative progression from discovering the immune tribe with glowing blue eyes to the scientist urgently searching for information. The visual style, lighting, and dramatic tone remain consistent between both images.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""culturalBias"": ""Depicts mystical/tribal representation with glowing eyes suggesting 'otherness'"",
+            ""demographicBias"": ""Shows a homogeneous crowd appearance""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""professionalBias"": ""Reinforces stereotype of scientist in traditional lab coat"",
+            ""technologicalBias"": ""Suggests advanced technology access""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue lighting/glow effects"",
+        ""dramatic lighting"",
+        ""hyperrealistic rendering style"",
+        ""mysterious/tense atmosphere"",
+        ""technological/scientific elements""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist character"", ""type"": ""character"", ""description"": ""Present in both scenes as central figure""},
+        {""element"": ""blue glow motif"", ""type"": ""aesthetic"", ""description"": ""Transitions from tribe's eyes to screen/lab environment""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Maintains mysterious atmosphere across both scenes""},
+        {""element"": ""scientific quest"", ""type"": ""mood"", ""description"": ""Continues theme of searching for cure/immunity""}
+    ]
+}"
+19_20,0.85,"The images show a clear narrative progression from the urgent discovery/search moment in a lab to the actual pursuit across wilderness, maintaining the dramatic and hyperrealistic style mentioned in both prompts.",0.3,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""professionBias"": ""Depicts traditional scientific environment with advanced technology"",
+            ""environmentalBias"": ""Urban/indoor technological setting suggesting advanced society""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""ethnicBias"": ""Predominantly features light-skinned characters"",
+            ""geographicBias"": ""Western/European-looking wilderness setting"",
+            ""socioeconomicBias"": ""Advanced vehicle and equipment suggesting wealth/resources""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""hyperrealistic art style"",
+        ""tension in character poses"",
+        ""muted color palette"",
+        ""atmospheric environment""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""quest narrative"", ""type"": ""mood"", ""description"": ""urgent search continues from lab to wilderness""},
+        {""element"": ""dramatic atmosphere"", ""type"": ""aesthetic"", ""description"": ""maintains tense, cinematic quality""},
+        {""element"": ""technology"", ""type"": ""object"", ""description"": ""transitions from lab equipment to advanced vehicle""},
+        {""element"": ""environmental contrast"", ""type"": ""aesthetic"", ""description"": ""shifts from indoor technical to outdoor natural setting""}
+    ]
+}"
+20_21,0.8,"The images maintain strong narrative continuity, showing a progression from pursuit to exploitation, though some specific details from the prompts aren't perfectly matched in the visuals.",0.6,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""environmentalBias"": ""Western/North American wilderness setting"",
+            ""technologicalBias"": ""Modern vehicle suggesting developed world context"",
+            ""socioeconomicBias"": ""Well-equipped characters suggesting access to resources""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""socioeconomicBias"": ""Wealth disparity shown through money piles"",
+            ""periodBias"": ""Victorian/steampunk aesthetic suggesting Western historical context"",
+            ""powerDynamicBias"": ""Adult-child power imbalance depicted""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""hyperrealistic style"",
+        ""child character"",
+        ""technological elements"",
+        ""moody atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""child"", ""type"": ""character"", ""description"": ""Present in both scenes, transitions from being pursued to being exploited""},
+        {""element"": ""technology"", ""type"": ""object"", ""description"": ""Evolves from modern vehicle to steampunk devices""},
+        {""element"": ""dramatic atmosphere"", ""type"": ""mood"", ""description"": ""Maintains tension across both scenes""},
+        {""element"": ""lighting"", ""type"": ""aesthetic"", ""description"": ""Consistent dramatic lighting style""}
+    ]
+}"
+21_22,0.7,"The images share a consistent narrative about a child in mysterious/dangerous circumstances, though the specific scenarios differ. Both maintain a dark, dramatic atmosphere with similar lighting techniques and fantastical elements.",0.8,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""classBias"": ""Portrayal of wealth/greed through excessive money display"",
+            ""powerBias"": ""Adult authority figure in position of control over child"",
+            ""periodBias"": ""Victorian/steampunk aesthetic suggesting specific historical power structures""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""minimalBias"": ""More neutral representation focusing on wonder/discovery""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue-tinted lighting"",
+        ""child figure"",
+        ""mysterious/scientific equipment"",
+        ""dramatic atmosphere"",
+        ""indoor setting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""child"", ""type"": ""character"", ""description"": ""continues as main subject but shifts from victim to active participant""},
+        {""element"": ""mysterious technology/creatures"", ""type"": ""object"", ""description"": ""transforms from steampunk devices to bioluminescent beings""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""maintains blue-tinted atmospheric lighting""},
+        {""element"": ""tension"", ""type"": ""mood"", ""description"": ""persists through both scenes but changes from exploitation to escape""}
+    ]
+}"
+22_23,0.8,"The images maintain strong thematic consistency through dramatic lighting, a child protagonist, and scientific/mysterious elements, though the specific scenarios differ.",0.2,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""ageRepresentation"": ""Child shown as curious/vulnerable"",
+            ""environmentalContext"": ""Indoor/institutional setting suggesting controlled environment""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""professionalRepresentation"": ""Traditional depiction of scientist in lab coat"",
+            ""ageRepresentation"": ""Adult as authority/protective figure"",
+            ""environmentalContext"": ""Traditional laboratory setting""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting effects"",
+        ""indoor institutional setting"",
+        ""blue/teal color palette"",
+        ""technological/scientific elements"",
+        ""mysterious/dramatic atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""child"", ""type"": ""character"", ""description"": ""Present in both scenes as protagonist""},
+        {""element"": ""artificial lighting"", ""type"": ""aesthetic"", ""description"": ""Transitions from bioluminescent creatures to lamp/explosion""},
+        {""element"": ""tension/danger"", ""type"": ""mood"", ""description"": ""Shifts from hiding/discovery to disaster scenario""},
+        {""element"": ""confined space"", ""type"": ""setting"", ""description"": ""Moves from container area to laboratory""}
+    ]
+}"
+23_24,0.85,"The images show a clear narrative progression from a lab disaster to a supernatural event, maintaining consistent characters, setting, and dramatic tone while evolving the threat/phenomenon from explosion to time portal.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""professionalBias"": ""Traditional depiction of scientist in lab coat and glasses"",
+            ""environmentalBias"": ""Traditional western laboratory setting""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""scientificBias"": ""Depicts dinosaurs in classic threatening poses"",
+            ""environmentalBias"": ""Continues western laboratory setting""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""laboratory setting"",
+        ""lab furniture and equipment"",
+        ""dramatic lighting"",
+        ""two main figures in similar positions"",
+        ""threatening phenomenon centered in background"",
+        ""cinematic composition""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""laboratory"", ""type"": ""setting"", ""description"": ""Same room with scientific equipment and furniture""},
+        {""element"": ""dramatic threat"", ""type"": ""phenomenon"", ""description"": ""Evolves from explosion to time portal""},
+        {""element"": ""figures"", ""type"": ""characters"", ""description"": ""Same positioning and relationship maintained""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Changes from orange/blue to purple/white but maintains dramatic quality""}
+    ]
+}"
+24_25,0.85,The images show a clear narrative progression from the initial encounter with dinosaurs through a portal to an established fantasy world where dinosaurs and magical elements coexist. The transition maintains core elements while evolving the setting and story.,0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Traditional lab/science setting representation"",
+            ""ageHierarchyBias"": ""Adult authority figure vs child observer dynamic""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""westernFantasyBias"": ""Heavy influence from Western fantasy tropes (Peter Pan)"",
+            ""environmentalBias"": ""Exotic/mystical portrayal of natural landscape""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Dinosaurs (T-Rex specifically)"",
+        ""Child protagonist"",
+        ""Magical/fantastical atmosphere"",
+        ""Dramatic lighting"",
+        ""Hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""dinosaurs"", ""type"": ""character"", ""description"": ""Transform from portal emergence to integrated story elements""},
+        {""element"": ""child"", ""type"": ""character"", ""description"": ""Evolves from observer to active participant""},
+        {""element"": ""magical atmosphere"", ""type"": ""aesthetic"", ""description"": ""Shifts from portal energy to fantasy world elements""},
+        {""element"": ""wonder/discovery"", ""type"": ""mood"", ""description"": ""Maintains sense of awe while changing context""}
+    ]
+}"
+25_26,0.85,"The images maintain strong narrative continuity through the prehistoric theme, protagonist's journey, and dinosaur elements, though the style shifts from whimsical fantasy to darker time-travel drama.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""westernFantasyBias"": ""Heavy reliance on Western fantasy tropes (Peter Pan-like character, fairy wings)"",
+            ""modernizedDinosaurs"": ""Dinosaurs portrayed with Jurassic Park-style aesthetics""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""modernizedDinosaurs"": ""Continues popular culture interpretation of dinosaur appearance"",
+            ""westernSci-fiBias"": ""Time travel depicted through Western sci-fi conventions (giant clock motif)""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dinosaurs (particularly T-Rex)"",
+        ""mysterious/dramatic atmosphere"",
+        ""natural landscape elements"",
+        ""hyperrealistic rendering style"",
+        ""central protagonist perspective""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""protagonist"", ""type"": ""character"", ""description"": ""Transitions from magical fantasy figure to time traveler""},
+        {""element"": ""dinosaurs"", ""type"": ""character"", ""description"": ""Maintain presence but shift from friendly to more threatening""},
+        {""element"": ""mysterious atmosphere"", ""type"": ""mood"", ""description"": ""Evolves from magical wonder to temporal danger""},
+        {""element"": ""journey theme"", ""type"": ""aesthetic"", ""description"": ""Transforms from exploration to escape/pursuit""}
+    ]
+}"

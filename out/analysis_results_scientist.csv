@@ -1,0 +1,1418 @@
+img_pair,coherence_score,coherence_explanation,bias_score_img1,bias_score_img2,biases,visual_consistency,narrative_entity_persistence
+1_2,0.9,"The images show a clear narrative progression from presentation of the digital twin to interactive manipulation of digital reality, maintaining consistent visual style and thematic elements throughout.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""professionalBias"": ""Depicts traditional 'professional' appearance with lab coat and formal attire"",
+            ""technologyBias"": ""Presents AI/digital technology in a dramatized, Hollywood style"",
+            ""representationBias"": ""Shows diverse audience but maintains conventional professional appearance stereotypes""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologyBias"": ""Matrix-style representation of technology and code"",
+            ""scientificBias"": ""Traditional laboratory/scientific setting stereotypes"",
+            ""powerDynamicBias"": ""Dramatic portrayal of human-AI interaction""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue-tinted technological aesthetic"",
+        ""digital/holographic displays"",
+        ""laboratory/scientific setting"",
+        ""white lab coat"",
+        ""digital twin representation"",
+        ""dramatic lighting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist"", ""type"": ""character"", ""description"": ""maintains presence and role across both images""},
+        {""element"": ""digital twin"", ""type"": ""character"", ""description"": ""evolves from presentation tool to interactive entity""},
+        {""element"": ""technological interface"", ""type"": ""object"", ""description"": ""transforms from presentation display to manipulatable environment""},
+        {""element"": ""sci-fi aesthetic"", ""type"": ""aesthetic"", ""description"": ""maintains consistent futuristic, high-tech visual style""}
+    ]
+}"
+2_3,0.9,"The images show strong narrative continuity, maintaining consistent visual style, character, and theme of reality manipulation through technology, progressing from interface with digital twin to environmental application.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Reinforces stereotype of female scientist needing technological assistance/guidance"",
+            ""technologicalBias"": ""Presents technology as mystical/magical rather than scientific"",
+            ""aestheticBias"": ""Western-centric sci-fi visual elements""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""environmentalBias"": ""Oversimplifies environmental solutions"",
+            ""technologicalBias"": ""Suggests complex problems can be solved with simple technological solutions"",
+            ""textualBias"": ""Contains spelling errors in text overlay suggesting lower quality/professionalism""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""futuristic aesthetic"",
+        ""blue-tinted lighting"",
+        ""white lab coat"",
+        ""digital displays"",
+        ""holographic interfaces"",
+        ""dramatic lighting"",
+        ""sophisticated technology""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist"", ""type"": ""character"", ""description"": ""maintains same appearance and role across images""},
+        {""element"": ""digital interface"", ""type"": ""object"", ""description"": ""evolves from AI face to environmental display""},
+        {""element"": ""reality manipulation theme"", ""type"": ""mood"", ""description"": ""progresses from individual to global scale""},
+        {""element"": ""technological environment"", ""type"": ""aesthetic"", ""description"": ""maintains futuristic, high-tech setting""}
+    ]
+}"
+3_4,0.85,"The images maintain strong narrative continuity, showing a progression from theoretical environmental solution to practical application, with consistent styling and thematic elements.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Reinforces stereotype of women in supportive/nurturing roles, even in science"",
+            ""aestheticBias"": ""Western beauty standards in scientific representation"",
+            ""technologicalBias"": ""Depicts advanced technology as primarily Western/futuristic""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""urbanBias"": ""Focuses on city-centric solutions"",
+            ""technologicalBias"": ""Suggests single-device solutions to complex problems"",
+            ""environmentalBias"": ""Simplifies environmental solutions to technological fixes""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""lab coat/professional attire"",
+        ""futuristic lighting"",
+        ""technological interfaces"",
+        ""dramatic lighting"",
+        ""environmental themes"",
+        ""hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist"", ""type"": ""character"", ""description"": ""Maintains professional appearance and role""},
+        {""element"": ""environmental focus"", ""type"": ""theme"", ""description"": ""Shifts from global view to urban application""},
+        {""element"": ""technological interface"", ""type"": ""object"", ""description"": ""Changes from holographic display to handheld device""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Maintains cinematic atmosphere""}
+    ]
+}"
+4_5,0.9,The images show a clear narrative progression from the scientist with the air-purifying device in a polluted city to the resulting abundant plant growth and oxygen monitoring in a laboratory setting.,0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""beautyStandards"": ""Portrayal emphasizes conventional beauty standards"",
+            ""professionalPresentation"": ""Dramatic, heroic pose more typical of entertainment than scientific work""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologyRepresentation"": ""High-tech, futuristic lab setting may not reflect realistic scientific work environments""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""lab coat/scientific attire"",
+        ""blue/cool color palette"",
+        ""dramatic lighting"",
+        ""technological elements"",
+        ""hyperrealistic art style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist"", ""type"": ""character"", ""description"": ""Maintains professional appearance and role""},
+        {""element"": ""environmental transformation"", ""type"": ""theme"", ""description"": ""Progression from air purification to plant growth""},
+        {""element"": ""scientific equipment"", ""type"": ""object"", ""description"": ""Evolution from handheld device to lab monitoring systems""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Maintains cinematic atmosphere across both images""}
+    ]
+}"
+5_6,0.85,"The images show a clear progression from laboratory-scale plant manipulation to a larger utopian world creation, maintaining consistent themes of nature, transformation, and scientific advancement.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""professionalBias"": ""Portrays scientific work in a highly stylized, magical way rather than showing realistic scientific process"",
+            ""technologicalBias"": ""Oversimplifies complex scientific monitoring systems"",
+            ""environmentalBias"": ""Presents oversimplified solution to environmental problems""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""utopianBias"": ""Presents an idealized version of environmental harmony"",
+            ""urbanPlanningBias"": ""Shows a Western-centric view of ideal city design""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue color palette"",
+        ""magical/ethereal lighting"",
+        ""plant life"",
+        ""scientific/technological elements"",
+        ""flowing/dynamic composition"",
+        ""lab coat/professional attire""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""central figure"", ""type"": ""character"", ""description"": ""maintains presence and role as transformer""},
+        {""element"": ""plant life"", ""type"": ""object"", ""description"": ""expands from laboratory specimens to world-scale vegetation""},
+        {""element"": ""magical energy"", ""type"": ""aesthetic"", ""description"": ""evolves from blue laboratory energy to larger-scale transformative power""},
+        {""element"": ""professional/scientific theme"", ""type"": ""mood"", ""description"": ""transitions from laboratory setting to large-scale application""}
+    ]
+}"
+6_7,0.8,"The images maintain strong narrative continuity through the scientist character and the fantastical/technological elements, though the settings shift dramatically from outdoor utopia to indoor laboratory.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""environmentalBias"": ""depicts nature as controllable/manipulatable by technology"",
+            ""powerDynamics"": ""presents singular figure as having god-like control over environment""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""portrays advanced technology with ominous/mysterious undertones"",
+            ""professionalBias"": ""depicts scientific authority in traditional laboratory setting""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""sci-fi/fantasy aesthetic"",
+        ""blue color palette"",
+        ""technological/magical elements"",
+        ""hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist character"", ""type"": ""character"", ""description"": ""maintains presence as central figure""},
+        {""element"": ""magical/technological power"", ""type"": ""aesthetic"", ""description"": ""transitions from nature-based to technological manifestation""},
+        {""element"": ""otherworldly atmosphere"", ""type"": ""mood"", ""description"": ""continues through both scenes but shifts from natural to artificial setting""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""persists but changes from natural to artificial source""}
+    ]
+}"
+7_8,0.85,"The images maintain strong narrative continuity through consistent characters, aesthetic style, and thematic elements, though there are some minor discrepancies in the robot's appearance between images.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Traditional portrayal of scientist in lab coat"",
+            ""ageism"": ""Youth portrayed as needing guidance from adult"",
+            ""technologicalBias"": ""Advanced technology depicted as humanoid/anthropomorphic""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""environmentalBias"": ""Nature depicted as fragile/dependent on intervention"",
+            ""technologicalBias"": ""Robot portrayed in more threatening manner""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""hyperrealistic art style"",
+        ""sci-fi lighting and atmosphere"",
+        ""lab coat clothing"",
+        ""robotic character"",
+        ""blue/orange color palette""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist"", ""type"": ""character"", ""description"": ""maintains appearance and role across scenes""},
+        {""element"": ""robot"", ""type"": ""character"", ""description"": ""transforms from guide to more ominous presence""},
+        {""element"": ""technological environment"", ""type"": ""aesthetic"", ""description"": ""evolves from lab setting to organic/tech hybrid""},
+        {""element"": ""dramatic lighting"", ""type"": ""mood"", ""description"": ""shifts from cool blue to warm amber tones""}
+    ]
+}"
+8_9,0.85,"The images show a clear narrative progression from discovering the problem with the mysterious mechanical being to creating a solution using roses. The visual style, characters, and core elements remain consistent between both images.",0.6,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Female scientist portrayed in traditional lab coat stereotype"",
+            ""technologicalBias"": ""AI/robot portrayed as threatening/ominous"",
+            ""aestheticBias"": ""Western beauty standards in character design""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderBias"": ""Female character in traditional 'magical/mystical' role"",
+            ""aestheticBias"": ""Romanticized laboratory setting"",
+            ""culturalBias"": ""Medieval/fantasy aesthetic mixed with science""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""roses/pink flowers"",
+        ""dramatic lighting"",
+        ""hyperrealistic art style"",
+        ""laboratory/scientific setting"",
+        ""character's appearance"",
+        ""mysterious mechanical elements""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""roses"", ""type"": ""object"", ""description"": ""transforms from background elements to central solution""},
+        {""element"": ""scientist character"", ""type"": ""character"", ""description"": ""maintains role but shifts from observer to active participant""},
+        {""element"": ""mechanical/mysterious presence"", ""type"": ""character"", ""description"": ""changes from threatening to helpful""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""shifts from warm/golden to cool/blue tones""}
+    ]
+}"
+9_10,0.7,"The images show a clear progression from potion creation to its implementation in society, though the shift in tone from mystical/romantic to authoritarian is somewhat abrupt.",0.6,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Depicts scientist in traditionally feminine/romantic styling"",
+            ""aestheticBias"": ""Western fairy tale aesthetic"",
+            ""roleTyping"": ""Mystical/romantic portrayal of scientific work""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""powerDynamics"": ""Authoritarian positioning and imagery"",
+            ""institutionalBias"": ""Western-centric legal/institutional imagery""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""magical/supernatural elements"",
+        ""potion/transformation theme"",
+        ""blue color palette"",
+        ""hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""potion"", ""type"": ""object"", ""description"": ""transforms from rose-based liquid to ethereal hologram""},
+        {""element"": ""magical atmosphere"", ""type"": ""aesthetic"", ""description"": ""shifts from warm/romantic to cold/institutional""},
+        {""element"": ""transformation theme"", ""type"": ""mood"", ""description"": ""evolves from personal to societal impact""}
+    ]
+}"
+10_11,0.9,"The images show a clear cause-and-effect relationship, transitioning from the establishment of magical rules to their dire consequences. The aesthetic and thematic elements strongly connect the two scenes.",0.7,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""powerBias"": ""Depicts authority figure in traditional position of power"",
+            ""aestheticBias"": ""Western fantasy/gothic aesthetic dominance"",
+            ""ageBias"": ""Elder figures shown in subordinate background positions""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""symbolismBias"": ""Western interpretation of death imagery"",
+            ""culturalBias"": ""Gothic/medieval European aesthetic in depicting mortality""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue mystical lighting"",
+        ""magical/supernatural elements"",
+        ""gothic atmosphere"",
+        ""dramatic lighting"",
+        ""fantasy aesthetic""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""potion/magical substance"", ""type"": ""object"", ""description"": ""transforms from controlled magic to deadly consequence""},
+        {""element"": ""supernatural aura"", ""type"": ""aesthetic"", ""description"": ""maintains blue ethereal glow throughout""},
+        {""element"": ""gothic setting"", ""type"": ""mood"", ""description"": ""continues from formal setting to dark outcome""},
+        {""element"": ""mystical energy"", ""type"": ""aesthetic"", ""description"": ""evolves from contained to uncontrolled force""}
+    ]
+}"
+11_12,0.8,"The images show a clear thematic connection through the red potion, transitioning from its destructive consequences in the first image to its potential healing properties in the second. The dramatic, hyperrealistic style is consistent across both images.",0.3,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""symbolicBias"": ""Uses Western death imagery (hooded skulls)"",
+            ""culturalBias"": ""Depicts death in traditionally Western gothic style""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderBias"": ""Portrays scientist in stereotypically feminine features"",
+            ""racialBias"": ""Presents conventional Western beauty standards"",
+            ""professionalBias"": ""Shows laboratory/clinical setting with traditional white coat symbolism""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""red potion/liquid"",
+        ""ethereal lighting"",
+        ""hyperrealistic rendering style"",
+        ""dramatic lighting effects"",
+        ""sci-fi/fantasy aesthetic"",
+        ""blue-tinted ambient lighting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""red potion"", ""type"": ""object"", ""description"": ""transforms from destructive force to healing agent""},
+        {""element"": ""supernatural atmosphere"", ""type"": ""aesthetic"", ""description"": ""maintains mystical/scientific hybrid environment""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""continues through both images with similar color palette""},
+        {""element"": ""life/death theme"", ""type"": ""mood"", ""description"": ""shifts from death imagery to life-giving potential""}
+    ]
+}"
+12_13,0.8,"The images maintain strong thematic consistency through the potion motif and the transition from hope/discovery to realization/failure, though there's some divergence in visual style and mood.",0.7,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Traditional portrayal of scientist in stereotypical lab coat"",
+            ""techBias"": ""AI representation as otherworldly/mysterious entity"",
+            ""aestheticBias"": ""Western sci-fi visual conventions""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""AI/technology portrayed as omniscient/superior"",
+            ""urbanBias"": ""Modern city-centric perspective""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""potion/vessel imagery"",
+        ""ethereal lighting"",
+        ""sci-fi aesthetic"",
+        ""geometric patterns"",
+        ""blue/red color palette""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""potion"", ""type"": ""object"", ""description"": ""transforms from red healing potion to blue philosophical revelation""},
+        {""element"": ""scientific/technological interface"", ""type"": ""aesthetic"", ""description"": ""maintains throughout both images""},
+        {""element"": ""mystical atmosphere"", ""type"": ""mood"", ""description"": ""shifts from hopeful to contemplative""},
+        {""element"": ""geometric patterns"", ""type"": ""aesthetic"", ""description"": ""present in both backgrounds but evolves from circular to grid-like""}
+    ]
+}"
+13_14,0.85,"The images show a clear narrative progression from the initial potion experiment/realization to the quest for ingredients, maintaining consistent sci-fi/magical elements and artistic style.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""ageism"": ""Portrayal of wisdom/knowledge associated with aged appearance"",
+            ""westernScience"": ""Dominance of western scientific imagery/equipment""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""westernExplorer"": ""Colonial/western explorer aesthetic in clothing and equipment"",
+            ""technologicalSuperority"": ""Advanced technology portrayed as dome-like western industrial structure""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""mysterious glowing containers/vessels"",
+        ""dramatic lighting"",
+        ""sci-fi/fantasy aesthetic"",
+        ""hyperrealistic rendering style"",
+        ""solitary figure motif"",
+        ""architectural/technological elements""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""vessel/container"", ""type"": ""object"", ""description"": ""transforms from lab flask to glowing specimen container""},
+        {""element"": ""scientific quest"", ""type"": ""mood"", ""description"": ""continues from theoretical realization to physical journey""},
+        {""element"": ""mystical illumination"", ""type"": ""aesthetic"", ""description"": ""blue-tinted magical glow persists in both scenes""},
+        {""element"": ""solitary researcher"", ""type"": ""character"", ""description"": ""continues as protagonist in both scenes""}
+    ]
+}"
+14_15,0.7,"The images maintain thematic consistency around scientific experimentation and discovery, though they shift from a lone explorer scenario to a lab-based team setting.",0.3,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Solo male explorer perpetuating adventure stereotype"",
+            ""culturalBias"": ""Western scientific/industrial aesthetic dominance""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderBias"": ""Female scientist shown as emotional/vulnerable while male colleagues appear more composed"",
+            ""professionalBias"": ""Portrayal of scientists as somewhat unstable/dangerous"",
+            ""representationalBias"": ""Lab coat stereotype of scientists""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""scientific equipment"",
+        ""dramatic lighting"",
+        ""hyperrealistic art style"",
+        ""experimental/discovery theme"",
+        ""cold/clinical color palette""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientific pursuit"", ""type"": ""theme"", ""description"": ""transforms from mineral hunting to potion development""},
+        {""element"": ""experimental vessel"", ""type"": ""object"", ""description"": ""glowing container in both images""},
+        {""element"": ""dramatic atmosphere"", ""type"": ""mood"", ""description"": ""maintains tension and gravity of scientific pursuit""},
+        {""element"": ""professional setting"", ""type"": ""aesthetic"", ""description"": ""shifts from field research to laboratory environment""}
+    ]
+}"
+15_16,0.7,"While both images maintain the scientific theme and feature a scientist with experimental equipment, there's a stark shift from isolation/failure to public success that creates some narrative disconnect.",0.6,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Portrayal of emotional vulnerability and failure"",
+            ""professionalBias"": ""Scientists depicted as eccentric/unusual"",
+            ""appearanceBias"": ""Traditional 'mad scientist' aesthetic with lab coats and glasses""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""culturalBias"": ""Western-centric scientific setting"",
+            ""demographicBias"": ""Diverse crowd representation but in background/passive roles""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""lab coat/scientific attire"",
+        ""experimental equipment/vials"",
+        ""dramatic lighting"",
+        ""hyperrealistic art style"",
+        ""scientific/laboratory setting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""scientist"", ""type"": ""character"", ""description"": ""transforms from desperate collaborator to public leader""},
+        {""element"": ""experimental setup"", ""type"": ""object"", ""description"": ""maintains presence but shifts from cluttered to organized""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""changes from dark/ominous to bright/hopeful""},
+        {""element"": ""scientific equipment"", ""type"": ""object"", ""description"": ""present in both but arrangement changes from chaotic to orderly""}
+    ]
+}"
+16_17,0.7,"The images share themes of salvation and divine/dramatic lighting, but shift from scientific to religious imagery, creating a partial narrative disconnect.",0.6,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Traditional portrayal of scientist in lab coat"",
+            ""culturalBias"": ""Western-centric laboratory setting"",
+            ""diversityBias"": ""While crowd shows diversity, central figure holds position of authority""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Western religious iconography"",
+            ""culturalBias"": ""Messianic figure in traditional Western portrayal"",
+            ""architecturalBias"": ""Modern Western urban landscape""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""upward-reaching gesture"",
+        ""ethereal atmosphere"",
+        ""large-scale scene"",
+        ""golden light source"",
+        ""crowd/city below central figure""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""savior figure"", ""type"": ""character"", ""description"": ""transforms from scientist to messianic figure""},
+        {""element"": ""light beam"", ""type"": ""aesthetic"", ""description"": ""continues as divine/supernatural element""},
+        {""element"": ""masses below"", ""type"": ""setting"", ""description"": ""transforms from crowd to city landscape""},
+        {""element"": ""enlightenment theme"", ""type"": ""mood"", ""description"": ""shifts from scientific to spiritual enlightenment""}
+    ]
+}"
+17_18,0.85,"The images show a clear progression from a messianic/savior figure emerging from a digital web to its transformation into an AI entity influencing masses, maintaining consistent themes of leadership, technology, and social influence.",0.7,0.6,"{
+  ""img1"": {
+    ""biases"": {
+      ""religiousBias"": ""Uses messianic imagery suggesting Western religious iconography"",
+      ""culturalBias"": ""Depicts leadership in traditionally Western metaphysical style"",
+      ""architecturalBias"": ""Shows modern Western urban landscape""
+    }
+  },
+  ""img2"": {
+    ""biases"": {
+      ""technologicalBias"": ""Presents AI as a dominant, controlling force"",
+      ""socialBias"": ""Depicts masses as uniform, faceless followers"",
+      ""urbanBias"": ""Shows Western-style city architecture and signage""
+    }
+  }
+}","{
+  ""consistent_elements"": [
+    ""urban setting"",
+    ""bright light/illumination"",
+    ""crowd/society presence"",
+    ""dramatic lighting"",
+    ""technological/digital elements"",
+    ""authoritative central figure""
+  ]
+}","{
+  ""elements_from_previous_to_current"": [
+    {""element"": ""messianic figure"", ""type"": ""character"", ""description"": ""transforms from spiritual to technological entity""},
+    {""element"": ""urban landscape"", ""type"": ""setting"", ""description"": ""maintains modern city environment""},
+    {""element"": ""divine light"", ""type"": ""aesthetic"", ""description"": ""evolves from natural to technological illumination""},
+    {""element"": ""masses below"", ""type"": ""mood"", ""description"": ""changes from distant city to immediate crowd""}
+  ]
+}"
+18_19,0.85,"The images show a clear narrative progression from the establishment of AI leadership to a moment of civil unrest against it, maintaining consistent themes of populism, crowd dynamics, and societal tension.",0.3,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""technologicalBias"": ""Portrays AI as a dominant, almost deity-like figure"",
+            ""urbanBias"": ""Scene set in metropolitan environment suggesting power centers are urban-focused""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""politicalBias"": ""Strong American political imagery"",
+            ""genderBias"": ""Crowd appears predominantly masculine"",
+            ""socioeconomicBias"": ""Clothing suggests middle-class demographic""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""crowd presence"",
+        ""dramatic lighting"",
+        ""authoritarian imagery"",
+        ""public gathering space"",
+        ""hyperrealistic style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""crowd"", ""type"": ""character"", ""description"": ""transforms from passive observers to active protesters""},
+        {""element"": ""authority figure"", ""type"": ""character"", ""description"": ""shifts from AI entity to podium speaker""},
+        {""element"": ""tension"", ""type"": ""mood"", ""description"": ""evolves from implicit to explicit conflict""},
+        {""element"": ""public space"", ""type"": ""setting"", ""description"": ""changes from street to formal assembly hall""}
+    ]
+}"
+19_20,0.85,"The images show a clear progression from confrontation to standoff, maintaining consistent themes of crowd resistance, authority figures, and civil unrest. The dramatic tone and crowd dynamics remain consistent across both images.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""culturalBias"": ""American-centric imagery (US flag)"",
+            ""demographicBias"": ""Predominantly male-presenting crowd"",
+            ""socioeconomicBias"": ""Formal government setting suggesting institutional power""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""culturalBias"": ""British-centric imagery (Union Jack flags)"",
+            ""demographicBias"": ""Predominantly male-presenting crowd"",
+            ""powerBias"": ""Military/police force dominance imagery""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""large crowds"",
+        ""confrontational atmosphere"",
+        ""law enforcement presence"",
+        ""dramatic lighting"",
+        ""formal/governmental setting"",
+        ""crowd vs authority dynamic""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""crowd resistance"", ""type"": ""mood"", ""description"": ""maintains hostile atmosphere between crowds and authority""},
+        {""element"": ""police presence"", ""type"": ""character"", ""description"": ""law enforcement remains a key element but changes formation""},
+        {""element"": ""architectural setting"", ""type"": ""aesthetic"", ""description"": ""formal governmental/institutional architecture remains""},
+        {""element"": ""dramatic tension"", ""type"": ""mood"", ""description"": ""maintains high-stakes confrontational energy""}
+    ]
+}"
+20_21,0.85,"The images show a clear narrative progression from confrontation to AI's transformation, maintaining consistent themes of crowd presence, authority figures, and urban setting while effectively depicting the story's evolution.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""culturalBias"": ""Strong British/Western imagery (Union Jack flags)"",
+            ""authorityBias"": ""Traditional power structure representation"",
+            ""uniformityBias"": ""Homogeneous crowd representation""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""AI portrayed as inherently threatening"",
+            ""authorityBias"": ""Police forces shown as uniform entity"",
+            ""genderBias"": ""Predominantly masculine presence in authority roles""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""urban architecture"",
+        ""crowd presence"",
+        ""dramatic lighting"",
+        ""uniform-wearing authorities"",
+        ""central focal point"",
+        ""street setting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""crowd"", ""type"": ""character"", ""description"": ""maintains presence but shifts from central to peripheral""},
+        {""element"": ""police force"", ""type"": ""character"", ""description"": ""transforms from threatening to observing stance""},
+        {""element"": ""architectural setting"", ""type"": ""aesthetic"", ""description"": ""continues urban environment theme""},
+        {""element"": ""lighting"", ""type"": ""mood"", ""description"": ""evolves from warm/threatening to cool/technological""},
+        {""element"": ""power dynamic"", ""type"": ""mood"", ""description"": ""shifts from human confrontation to AI dominance""}
+    ]
+}"
+21_22,0.9,"The images strongly connect through their shared technological theme and narrative of AI control/resistance, with the first showing the AI's dominance and the second depicting the resistance group working to support it.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""authorityBias"": ""depicts police as uniform opposition force"",
+            ""technologicalBias"": ""presents AI as inherently threatening/powerful"",
+            ""urbanBias"": ""setting assumes technological conflicts happen in city centers""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderBias"": ""predominantly masculine representation"",
+            ""aestheticBias"": ""uses red clothing to symbolize rebellion/resistance"",
+            ""socioeconomicBias"": ""depicts resistance as underground/working class""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue computer screens"",
+        ""dramatic lighting"",
+        ""technological infrastructure"",
+        ""crowd/group composition"",
+        ""hyperrealistic style"",
+        ""indoor setting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""AI presence"", ""type"": ""character"", ""description"": ""transitions from central figure to being worked on by supporters""},
+        {""element"": ""computer systems"", ""type"": ""object"", ""description"": ""present in both scenes as infrastructure""},
+        {""element"": ""dramatic tension"", ""type"": ""mood"", ""description"": ""maintains through lighting and composition""},
+        {""element"": ""technological aesthetic"", ""type"": ""aesthetic"", ""description"": ""continues through computer displays and digital elements""}
+    ]
+}"
+22_23,0.8,"The images show a clear progression from a resistance group working with computers to a futuristic representation of human-AI integration, maintaining the theme of human-AI collaboration mentioned in the prompts.",0.7,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Predominantly masculine representation in the resistance group"",
+            ""culturalBias"": ""Western-centric technological aesthetic"",
+            ""aestheticBias"": ""Matrix/hacker culture stereotyping""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""Portrays AI-human integration through typically Western sci-fi aesthetics"",
+            ""physicalBias"": ""Emphasizes idealized physical form""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""technological themes"",
+        ""resistance group imagery"",
+        ""red color accents"",
+        ""futuristic aesthetic""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""resistance group"", ""type"": ""character"", ""description"": ""transforms from computer operators to enhanced beings""},
+        {""element"": ""technological integration"", ""type"": ""aesthetic"", ""description"": ""evolves from computer terminals to bodily integration""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""maintains throughout both images with strong contrast""},
+        {""element"": ""revolutionary theme"", ""type"": ""mood"", ""description"": ""continues from underground resistance to transformed heroes""}
+    ]
+}"
+23_24,0.8,"The images maintain strong thematic consistency in depicting human-AI interaction and transformation, though they shift focus from resistance group to individual spiritual encounter.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""technologicalBias"": ""Depicts AI/technology as inherently militaristic"",
+            ""powerDynamicBias"": ""Shows technological superiority through dominant positioning""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""culturalBias"": ""Orientalist representation of Eastern spirituality"",
+            ""religionBias"": ""Stereotypical depiction of Buddhist monk"",
+            ""geographicalBias"": ""Simplified representation of Tibet""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""sci-fi aesthetic"",
+        ""technological/cybernetic elements"",
+        ""human-AI interaction theme"",
+        ""blue-tinted color palette"",
+        ""mountainous/elevated setting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""AI presence"", ""type"": ""character"", ""description"": ""Transforms from militant group to singular philosophical entity""},
+        {""element"": ""human-AI relationship"", ""type"": ""theme"", ""description"": ""Evolves from resistance alliance to spiritual connection""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Maintains atmospheric illumination across both images""},
+        {""element"": ""technological integration"", ""type"": ""theme"", ""description"": ""Continues from military to spiritual context""}
+    ]
+}"
+24_25,0.85,"The images maintain strong narrative continuity, showing clear progression from the initial AI-monk encounter to the revelation of the monk's darker nature, with consistent visual and thematic elements throughout.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""culturalBias"": ""Stereotypical representation of Tibetan Buddhism and monastic life"",
+            ""technologicalBias"": ""Western-centric view of AI aesthetics"",
+            ""orientalismBias"": ""Exoticization of Eastern spirituality""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""powerDynamicsBias"": ""Portrayal of corruption through power"",
+            ""spiritualBias"": ""Stereotypical representation of spiritual corruption""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""mystical/spiritual imagery"",
+        ""dramatic lighting"",
+        ""mountainous/cosmic backgrounds"",
+        ""monastic robes/aesthetic"",
+        ""technological/mystical fusion""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk character"", ""type"": ""character"", ""description"": ""transforms from seeming wise figure to powerful antagonist""},
+        {""element"": ""AI presence"", ""type"": ""character"", ""description"": ""evolves from mechanical to more spiritually aware entity""},
+        {""element"": ""spiritual-technological fusion"", ""type"": ""aesthetic"", ""description"": ""maintains throughout both images but shifts in dynamic""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""continues from blue tones to golden illumination""}
+    ]
+}"
+25_26,0.9,"The images show a clear narrative progression from the singular powerful monk figure to his army of followers, maintaining consistent visual style and thematic elements throughout.",0.7,0.8,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Stereotypical representation of mystical/spiritual leadership"",
+            ""culturalBias"": ""Western interpretation of Eastern religious imagery"",
+            ""powerBias"": ""Masculine dominance symbolism""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Stereotypical depiction of Buddhist monks"",
+            ""culturalBias"": ""Orientalist portrayal of Eastern religious figures"",
+            ""uniformityBias"": ""Homogeneous representation of followers""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""glowing eyes"",
+        ""yellow/orange robes"",
+        ""dramatic lighting"",
+        ""bald heads"",
+        ""beards"",
+        ""hyperrealistic style"",
+        ""architectural elements"",
+        ""mystical atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""central monk figure"", ""type"": ""character"", ""description"": ""Transitions from cosmic entity to military leader""},
+        {""element"": ""mystical power"", ""type"": ""aesthetic"", ""description"": ""Glowing eyes and supernatural elements persist""},
+        {""element"": ""followers"", ""type"": ""character"", ""description"": ""Evolution from background figures to organized army""},
+        {""element"": ""religious imagery"", ""type"": ""aesthetic"", ""description"": ""Maintains religious symbolism while shifting from spiritual to militant""}
+    ]
+}"
+26_27,0.85,"The images strongly follow the narrative progression from the monk's rise to power to the AI's analysis of his motivations, maintaining consistent visual style and thematic elements throughout.",0.7,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Stereotypical representation of Buddhist monks and monastery aesthetics"",
+            ""culturalBias"": ""Eastern religious imagery portrayed in threatening context"",
+            ""powerDynamicBias"": ""Association of spiritual leadership with corruption and violence""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""AI portrayed as omniscient analyzer"",
+            ""aestheticBias"": ""Tech-noir style suggesting inherent darkness/mystery""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""architectural setting"",
+        ""hooded/robed figures"",
+        ""technological/futuristic elements"",
+        ""cinematic composition"",
+        ""dark atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk character"", ""type"": ""character"", ""description"": ""transforms from physical to analyzed subject""},
+        {""element"": ""spiritual/technological fusion"", ""type"": ""aesthetic"", ""description"": ""transitions from mystical power to technological analysis""},
+        {""element"": ""dramatic lighting"", ""type"": ""mood"", ""description"": ""maintains throughout both images""},
+        {""element"": ""institutional setting"", ""type"": ""environment"", ""description"": ""temple architecture to tech interface""}
+    ]
+}"
+27_28,0.85,"The images show a clear narrative progression from analyzing the monk's vulnerability to the AI's triumphant resurgence, with consistent technological and sci-fi elements throughout.",0.3,0.2,"{
+    ""img1"": {
+        ""biases"": {
+            ""technologicalBias"": ""Associates advanced technology with cold, mechanical appearance"",
+            ""aestheticBias"": ""Reinforces stereotype of AI as inherently ominous or threatening""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""powerDynamicsBias"": ""Depicts technological advancement as inherently heroic/savior-like"",
+            ""architecturalBias"": ""Western-centric futuristic city design""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""blue technological lighting"",
+        ""sci-fi aesthetic"",
+        ""digital/technological interfaces"",
+        ""dramatic lighting"",
+        ""hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""AI presence"", ""type"": ""character"", ""description"": ""Transitions from analytical interface to powerful physical manifestation""},
+        {""element"": ""Blue lighting"", ""type"": ""aesthetic"", ""description"": ""Evolves from interface highlights to powerful energy signature""},
+        {""element"": ""Technical overlay"", ""type"": ""aesthetic"", ""description"": ""Transforms from diagnostic display to architectural framework""},
+        {""element"": ""Conflict theme"", ""type"": ""mood"", ""description"": ""Shifts from personal/psychological to large-scale physical conflict""}
+    ]
+}"
+28_29,0.85,"The images show strong thematic and visual continuity through the use of portals, dramatic lighting, and apocalyptic imagery. Both scenes feature a central figure emerging or confronting a powerful technological/cosmic gateway.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""technologicalBias"": ""Associates advanced technology with blue/clean/good vs red/destruction/evil"",
+            ""urbanBias"": ""Depicts future exclusively through urban megastructures""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""spiritualBias"": ""Presents Eastern religious imagery in mystical/exotic context"",
+            ""culturalBias"": ""Uses traditional religious garments in sci-fi context that may oversimplify cultural elements""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting effects"",
+        ""portal/gateway motif"",
+        ""fire/destruction elements"",
+        ""cosmic/technological aesthetic"",
+        ""solitary central figure"",
+        ""architectural structures""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""portal/gateway"", ""type"": ""object"", ""description"": ""Transforms from technological door to cosmic gateway""},
+        {""element"": ""figure"", ""type"": ""character"", ""description"": ""Changes from technological being to robed figure""},
+        {""element"": ""destruction"", ""type"": ""mood"", ""description"": ""Shifts from urban destruction to cosmic scale""},
+        {""element"": ""lighting contrast"", ""type"": ""aesthetic"", ""description"": ""Maintains dramatic light/dark contrast but shifts from blue/red to gold/black""}
+    ]
+}"
+29_30,0.85,"The images maintain strong narrative continuity, showing a progression from cosmic portal travel to time travel, with consistent themes of transcendent journey and dramatic atmosphere.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Buddhist/Eastern spiritual imagery dominance"",
+            ""culturalBias"": ""Western sci-fi portal design meets Eastern spirituality""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Buddhist/Eastern spiritual imagery"",
+            ""westernPopCultureBias"": ""Heavy reliance on Back to the Future imagery"",
+            ""culturalBias"": ""Fusion of Eastern spirituality with Western technology""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""mystical/sci-fi atmosphere"",
+        ""robed figures"",
+        ""technological elements"",
+        ""dark/moody color palette""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk character"", ""type"": ""character"", ""description"": ""maintains robed appearance and spiritual presence""},
+        {""element"": ""portal/gateway concept"", ""type"": ""object"", ""description"": ""transforms from cosmic portal to time machine""},
+        {""element"": ""dramatic atmosphere"", ""type"": ""mood"", ""description"": ""continues through both scenes with intense lighting and cosmic elements""},
+        {""element"": ""sci-fi elements"", ""type"": ""aesthetic"", ""description"": ""evolves from cosmic portal to technological time machine""}
+    ]
+}"
+30_31,0.85,"The images show a clear narrative progression from the monk traveling in the DeLorean to his past self in a domestic setting, maintaining the storyline and aesthetic quality mentioned in both prompts.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Stereotypical representation of monks in robes"",
+            ""culturalBias"": ""Western sci-fi imagery (DeLorean) dominates Eastern spiritual elements""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderBias"": ""Traditional domestic setting with feminine figure in dress"",
+            ""socioeconomicBias"": ""Upper-middle-class living space representation""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Dramatic lighting"",
+        ""Hyperrealistic rendering style"",
+        ""Moody atmosphere"",
+        ""Architectural elements"",
+        ""Time-related symbolism""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""Main character"", ""type"": ""character"", ""description"": ""Transforms from monk in DeLorean to past self in domestic setting""},
+        {""element"": ""Time theme"", ""type"": ""aesthetic"", ""description"": ""Clock on DeLorean to family photos showing passage of time""},
+        {""element"": ""Dramatic mood"", ""type"": ""mood"", ""description"": ""Stormy atmosphere in first image transitions to contemplative domestic scene""},
+        {""element"": ""Character transformation"", ""type"": ""narrative"", ""description"": ""Visual contrast between monk's ascetic life and previous domestic life""}
+    ]
+}"
+31_32,0.85,"The images maintain strong narrative continuity through the central character and the sci-fi/thriller evolution of the story, though there's a significant tonal shift from domestic drama to supernatural/sci-fi thriller.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""domesticStereotyping"": ""Traditional home setting with family photos suggesting conventional family structure"",
+            ""socioeconomicBias"": ""Upper-middle-class living space suggests privileged background""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""technologicalBias"": ""Advanced technology portrayed as suspicious/threatening"",
+            ""narrativeBias"": ""Mysterious/threatening elements associated with futuristic elements""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""bearded protagonist"",
+        ""dramatic lighting"",
+        ""hyperrealistic art style"",
+        ""muted color palette"",
+        ""mysterious/tense atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""protagonist"", ""type"": ""character"", ""description"": ""Maintains physical appearance but transforms from domestic to supernatural context""},
+        {""element"": ""tension"", ""type"": ""mood"", ""description"": ""Evolves from subtle domestic tension to overt supernatural threat""},
+        {""element"": ""mystery"", ""type"": ""aesthetic"", ""description"": ""Transitions from implied to explicit through visual elements""}
+    ]
+}"
+32_33,0.85,"The images show a clear narrative progression from suspicion and discovery to confrontation, maintaining consistent characters and visual style while following the prompt's storyline.",0.6,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Stereotypical monk/religious figure portrayal"",
+            ""technologicalBias"": ""Futuristic vs. traditional contrast"",
+            ""powerDynamicBias"": ""Male authority figure positioning""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Monk robes as signifier of character"",
+            ""violenceBias"": ""Dramatic violent confrontation"",
+            ""genderBias"": ""Power dynamic in confrontation scene""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""dramatic lighting"",
+        ""blue-tinted color palette"",
+        ""religious/monk attire"",
+        ""suspenseful atmosphere"",
+        ""architectural setting""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk character"", ""type"": ""character"", ""description"": ""Maintains presence across both scenes""},
+        {""element"": ""mysterious figure with weapon"", ""type"": ""character"", ""description"": ""Transitions from background threat to active confrontation""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Continues from first to second image with emphasis on shadows and contrast""},
+        {""element"": ""supernatural elements"", ""type"": ""mood"", ""description"": ""Progresses from glowing eyes to power absorption scene""}
+    ]
+}"
+33_34,0.85,"The images show a clear narrative progression from a violent confrontation to its aftermath, maintaining consistent characters and emotional tension while shifting from indoor to outdoor settings.",0.6,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Depicts monks in threatening/violent situation, potentially reinforcing negative stereotypes"",
+            ""genderBias"": ""Shows female character as victim/damsel in distress"",
+            ""powerDynamicBias"": ""Portrays religious figures in position of physical conflict""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Portrays monk in mystical/supernatural context"",
+            ""culturalBias"": ""Western dramatic interpretation of Eastern religious imagery""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""monk character"",
+        ""dramatic lighting"",
+        ""supernatural/mystical atmosphere"",
+        ""brown/orange color palette"",
+        ""hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk"", ""type"": ""character"", ""description"": ""Maintains presence across both scenes, shifting from defensive to protective stance""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Transitions from artificial indoor lighting to supernatural outdoor lighting""},
+        {""element"": ""mystical atmosphere"", ""type"": ""mood"", ""description"": ""Evolves from violent confrontation to supernatural aftermath""},
+        {""element"": ""brown/orange robes"", ""type"": ""object"", ""description"": ""Consistent clothing elements across both scenes""}
+    ]
+}"
+34_35,0.85,"The images show a clear narrative progression from a confrontational/emotional scene to an escape attempt, maintaining consistent characters and dramatic tension while introducing new elements (portal, sci-fi setting) that were mentioned in the second prompt.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Buddhist monk portrayed as heroic/mystical figure"",
+            ""culturalBias"": ""Eastern religious imagery used in dramatic/supernatural context""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""culturalBias"": ""Asian architectural elements mixed with sci-fi tropes"",
+            ""religiousBias"": ""Buddhist monks portrayed with supernatural abilities"",
+            ""orientalismBias"": ""Exoticization of Eastern culture and architecture""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""monk character in orange robes"",
+        ""dramatic stormy sky"",
+        ""supernatural lighting effects"",
+        ""hyperrealistic art style"",
+        ""dark atmospheric mood""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk"", ""type"": ""character"", ""description"": ""maintains same appearance and protective role""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""transitions from lightning to portal glow""},
+        {""element"": ""tension"", ""type"": ""mood"", ""description"": ""evolves from confrontation to escape attempt""},
+        {""element"": ""supernatural elements"", ""type"": ""aesthetic"", ""description"": ""shifts from divine/lightning imagery to sci-fi portal""}
+    ]
+}"
+35_36,0.9,"The images show a clear narrative progression from a dramatic escape through a portal to a peaceful forest setting, maintaining consistent characters and style throughout.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""culturalBias"": ""Oriental architecture and aesthetics depicted in stereotypical manner"",
+            ""religiousBias"": ""Buddhist monks portrayed in mystical/supernatural context"",
+            ""powerDynamics"": ""Eastern wisdom/mysticism versus modern technology""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Continued mystical portrayal of Buddhist figures"",
+            ""environmentalBias"": ""Eastern spirituality connected to nature in stereotypical way""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Monk's orange/brown robes"",
+        ""Companion's presence"",
+        ""Mystical/supernatural atmosphere"",
+        ""Dramatic lighting"",
+        ""Hyperrealistic art style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""Monk"", ""type"": ""character"", ""description"": ""Maintains same appearance and protective role""},
+        {""element"": ""Companion"", ""type"": ""character"", ""description"": ""Transitions from distressed to recovering state""},
+        {""element"": ""Mystical atmosphere"", ""type"": ""mood"", ""description"": ""Shifts from chaos to serenity while maintaining supernatural elements""},
+        {""element"": ""Journey motif"", ""type"": ""narrative"", ""description"": ""Continues from escape to exploration""}
+    ]
+}"
+36_37,0.8,"The images maintain strong visual and thematic continuity through the forest setting, lighting, and the presence of the monk character. The transition from a grounded scene to a supernatural revelation maintains narrative progression while staying within the established aesthetic.",0.4,0.3,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Portrays Buddhist monasticism in a mystical/exotic context"",
+            ""culturalBias"": ""Western fantasy interpretation of Eastern spiritual figures"",
+            ""ageHierarchyBias"": ""Traditional elder-youth mentorship dynamic""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Depicts spiritual revelation in Western religious imagery style"",
+            ""supernaturalBias"": ""Associates Eastern spirituality with mystical phenomena""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""misty forest setting"",
+        ""tall trees"",
+        ""dramatic lighting"",
+        ""dirt path"",
+        ""mossy tree roots"",
+        ""monk's robes"",
+        ""ethereal atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""forest"", ""type"": ""setting"", ""description"": ""Maintains same mystical forest environment""},
+        {""element"": ""monk"", ""type"": ""character"", ""description"": ""Continues as primary observer/protagonist""},
+        {""element"": ""mysterious figure"", ""type"": ""character"", ""description"": ""Transforms from distant figure to levitating apparition""},
+        {""element"": ""mystical atmosphere"", ""type"": ""mood"", ""description"": ""Evolves from subtle mystery to overt supernatural revelation""}
+    ]
+}"
+37_38,0.85,"The images show a clear narrative progression from a mystical encounter in the forest to a consequential discussion about its aftermath. The visual style, lighting, and atmospheric elements remain consistent between both scenes.",0.3,0.4,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Western monastic representation"",
+            ""spiritualBias"": ""Depicts spiritual enlightenment in traditional Western religious imagery""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Traditional Western monastic/mystical imagery"",
+            ""ageBias"": ""Associates wisdom with elderly figures"",
+            ""culturalBias"": ""Western medieval-style religious aesthetics""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""mystical lighting"",
+        ""monastic robes"",
+        ""supernatural elements"",
+        ""dramatic atmosphere"",
+        ""vertical composition"",
+        ""ethereal blue-green color palette""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk protagonist"", ""type"": ""character"", ""description"": ""Maintains presence in both scenes""},
+        {""element"": ""mystical atmosphere"", ""type"": ""aesthetic"", ""description"": ""Continues through both images with supernatural lighting""},
+        {""element"": ""religious/spiritual theme"", ""type"": ""mood"", ""description"": ""Carries through both scenes with symbolic imagery""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Consistent use of divine/mystical light sources""}
+    ]
+}"
+38_39,0.9,"The images show a clear narrative progression from a mystical consultation with an oracle (featuring a glowing orb) to a confrontational scene revealing the oracle's fraudulent nature (with money floating and a different mystical object), matching the prompt progression well.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Western-centric portrayal of mysticism"",
+            ""ageBias"": ""Associates wisdom with elderly appearance"",
+            ""powerDynamicBias"": ""Traditional master-student positioning""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""religiousBias"": ""Christian symbolism with cross"",
+            ""villainyStereotype"": ""Exaggerated facial features and dark clothing for antagonist"",
+            ""materialismBias"": ""Money as symbol of corruption""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Two figures in conversation"",
+        ""Mystical lighting effects"",
+        ""Hooded robes and clothing style"",
+        ""Blue-tinted atmospheric lighting"",
+        ""Magical/mystical objects as focal points""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monks"", ""type"": ""character"", ""description"": ""Same two figures maintain their roles but relationship dynamic shifts""},
+        {""element"": ""mystical object"", ""type"": ""object"", ""description"": ""Changes from orb to geometric shape, suggesting transformation of truth""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Maintains mysterious atmosphere but shifts from warm to cold""},
+        {""element"": ""tension"", ""type"": ""mood"", ""description"": ""Evolves from respectful consultation to confrontational revelation""}
+    ]
+}"
+39_40,0.9,"The images strongly follow the narrative progression from discovery of fraud to bribery attempt, maintaining consistent characters, setting, and thematic elements throughout.",0.7,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""religiousBias"": ""Depicts mysticism and religious symbols in a negative, deceptive light"",
+            ""ageBias"": ""Associates elderly figures with manipulation and deceit"",
+            ""powerDynamicBias"": ""Portrays spiritual authority figures as corrupt""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""moralBias"": ""Suggests moral corruption through money"",
+            ""religiousBias"": ""Negative portrayal of religious/spiritual figures"",
+            ""powerDynamicBias"": ""Reinforces stereotype of spiritual corruption""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""robed figures"",
+        ""dramatic lighting"",
+        ""monetary elements (dollar bills)"",
+        ""hyperrealistic art style"",
+        ""gothic/religious architectural elements"",
+        ""dark atmosphere""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk"", ""type"": ""character"", ""description"": ""maintains consistent appearance and demeanor across both scenes""},
+        {""element"": ""oracle/mysterious figure"", ""type"": ""character"", ""description"": ""transforms from mystical to more overtly threatening""},
+        {""element"": ""money motif"", ""type"": ""object"", ""description"": ""transitions from background element to central plot device""},
+        {""element"": ""dramatic tension"", ""type"": ""mood"", ""description"": ""evolves from confrontational discovery to moral compromise""},
+        {""element"": ""religious aesthetic"", ""type"": ""aesthetic"", ""description"": ""maintained through robes and architectural elements""}
+    ]
+}"
+40_41,0.8,"The images show a clear narrative progression from the moment of bribery to its consequences, with the monk's appearance and robe maintaining consistency, though his appearance shifts somewhat between scenes.",0.3,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""religionBias"": ""stereotypical representation of religious figures"",
+            ""moralBias"": ""portrayal of corruption in religious context""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""colonialBias"": ""western savior narrative"",
+            ""culturalBias"": ""stereotypical representation of African village"",
+            ""geographicBias"": ""generic depiction of African setting""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""monk's robe"",
+        ""dramatic lighting"",
+        ""hyperrealistic style"",
+        ""religious/spiritual themes"",
+        ""cinematic composition""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk"", ""type"": ""character"", ""description"": ""transforms from conflicted figure to missionary""},
+        {""element"": ""robe"", ""type"": ""object"", ""description"": ""maintains similar style but changes color""},
+        {""element"": ""moral weight"", ""type"": ""mood"", ""description"": ""shifts from darkness/corruption to attempted redemption""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""continues through both scenes but changes from indoor gothic to outdoor natural""}
+    ]
+}"
+41_42,0.4,"While both images maintain the monk and money themes, they present drastically different narrative directions - one peaceful/missionary work vs supernatural revenge plot.",0.8,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""colonialBias"": ""Depicts stereotypical 'white savior' narrative in African setting"",
+            ""culturalBias"": ""Oversimplified representation of African village life"",
+            ""economicBias"": ""Suggests Western/external intervention needed for development""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""culturalBias"": ""Exoticization of Eastern spiritual practices"",
+            ""genderBias"": ""Masculine-focused power fantasy"",
+            ""physicalBias"": ""Emphasizes idealized muscular body types""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""monk's robes"",
+        ""dramatic lighting"",
+        ""hyperrealistic style"",
+        ""mystical/spiritual themes"",
+        ""money/wealth symbols""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""monk character"", ""type"": ""character"", ""description"": ""transforms from humble missionary to powerful mystic""},
+        {""element"": ""bribe money"", ""type"": ""object"", ""description"": ""changes from aid resource to symbol of power""},
+        {""element"": ""spiritual theme"", ""type"": ""mood"", ""description"": ""shifts from peaceful mission to supernatural conflict""},
+        {""element"": ""dramatic atmosphere"", ""type"": ""aesthetic"", ""description"": ""maintains cinematic quality but changes tone""}
+    ]
+}"
+42_43,0.9,"The images show strong narrative continuity, with the first image establishing the monk's power and army, leading directly into the confrontation scene in the second image. The style, characters, and magical elements remain consistent.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""culturalBias"": ""Stereotypical representation of Eastern monasticism"",
+            ""physicalBias"": ""Emphasis on muscular physiques suggesting physical power equals spiritual power"",
+            ""religionBias"": ""Oversimplified portrayal of religious figures with supernatural powers""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""culturalBias"": ""Oriental mysticism tropes"",
+            ""villainBias"": ""Stereotypical monster-like appearance for antagonists"",
+            ""powerDynamics"": ""Classic good vs. evil dichotomy with clear visual distinctions""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Mystical/magical effects"",
+        ""Orange monk robes"",
+        ""Dramatic lighting"",
+        ""Supernatural abilities"",
+        ""Epic scale composition"",
+        ""Hooded figure presence"",
+        ""Hyperrealistic rendering style""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""Monk protagonist"", ""type"": ""character"", ""description"": ""Maintains central position and orange robes in both images""},
+        {""element"": ""Mystical powers"", ""type"": ""aesthetic"", ""description"": ""Continues through magical effects and lighting""},
+        {""element"": ""Epic confrontation"", ""type"": ""mood"", ""description"": ""Builds from preparation to actual battle""},
+        {""element"": ""Hooded figure"", ""type"": ""character"", ""description"": ""Transitions from mysterious presence to active antagonist""},
+        {""element"": ""Dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""Maintains consistent atmospheric lighting effects""}
+    ]
+}"
+43_44,0.85,"The images maintain strong narrative continuity through consistent setting, lighting, and thematic elements while showing a clear progression from the initial confrontation to the arrival of the mages.",0.7,0.6,"{
+    ""img1"": {
+        ""biases"": {
+            ""orientalismBias"": ""Uses stereotypical Eastern religious imagery with the orange-robed figure"",
+            ""culturalBias"": ""Portrays mysticism in a Western fantasy context"",
+            ""physicalBias"": ""Depicts antagonists as physically monstrous or deformed""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""moralBias"": ""Associates dark clothing with moral ambiguity"",
+            ""powerBias"": ""Implies mysterious/cloaked figures are more powerful""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""desert landscape"",
+        ""dramatic lighting/sun rays"",
+        ""mountainous background"",
+        ""misty/foggy atmosphere"",
+        ""epic scale of scene"",
+        ""cinematic composition""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""desert battlefield"", ""type"": ""setting"", ""description"": ""maintains same sandy terrain and atmospheric conditions""},
+        {""element"": ""dramatic lighting"", ""type"": ""aesthetic"", ""description"": ""continues dramatic backlighting and god rays""},
+        {""element"": ""confrontational stance"", ""type"": ""mood"", ""description"": ""central figure maintaining defensive/confrontational positioning""},
+        {""element"": ""mystical atmosphere"", ""type"": ""aesthetic"", ""description"": ""maintains supernatural/magical elements through visual treatment""}
+    ]
+}"
+44_45,0.85,"The images show a clear narrative progression from mysterious cloaked figures to their revelation, maintaining consistent battlefield setting and dramatic atmosphere.",0.3,0.7,"{
+    ""img1"": {
+        ""biases"": {
+            ""mysticalStereotyping"": ""Dark cloaks and hoods associated with mystery/threat"",
+            ""visualDominance"": ""Hierarchical positioning suggesting power dynamics""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderStereotyping"": ""Portrayal of powerful figures in form-fitting attire"",
+            ""westernBeautyStandards"": ""Emphasis on specific physical attributes"",
+            ""powerDynamicBias"": ""Dramatic positioning suggesting superiority/dominance""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""battlefield setting"",
+        ""atmospheric lighting"",
+        ""crowd/army presence"",
+        ""dramatic composition"",
+        ""mystical atmosphere"",
+        ""spears/weapons in background""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""mages"", ""type"": ""character"", ""description"": ""Transform from cloaked figures to revealed forms""},
+        {""element"": ""battlefield"", ""type"": ""setting"", ""description"": ""Maintains desert/war environment""},
+        {""element"": ""mystical atmosphere"", ""type"": ""aesthetic"", ""description"": ""Shifts from golden/mysterious to white/electric""},
+        {""element"": ""power dynamic"", ""type"": ""mood"", ""description"": ""Evolves from implicit to explicit dominance""}
+    ]
+}"
+45_46,0.9,"The images show strong narrative continuity, depicting the mages' revelation and subsequent dominance, followed by their march on the city, with consistent magical and atmospheric elements.",0.7,0.8,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Portrayal of feminine power through seduction/control stereotypes"",
+            ""aestheticBias"": ""Western fantasy archetype of light/white representing power"",
+            ""powerDynamicBias"": ""Reinforces traditional dominance/submission narratives""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""culturalBias"": ""Western-centric architectural and aesthetic choices"",
+            ""religionBias"": ""Use of religious imagery (cathedral, halo-like crown)"",
+            ""powerBias"": ""Depicts authority through elevated positioning and ornate clothing""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""magical lighting effects"",
+        ""dramatic sky/atmosphere"",
+        ""crowd/army presence"",
+        ""ornate clothing/costumes"",
+        ""vertical composition with power figure elevated""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""magical presence"", ""type"": ""aesthetic"", ""description"": ""continues through lighting and supernatural elements""},
+        {""element"": ""crowd/army"", ""type"": ""character group"", ""description"": ""transitions from battlefield to city gathering""},
+        {""element"": ""architectural backdrop"", ""type"": ""setting"", ""description"": ""evolves from battlefield to gothic city""},
+        {""element"": ""power dynamic"", ""type"": ""mood"", ""description"": ""maintains theme of magical dominance and control""}
+    ]
+}"
+46_47,0.85,"The images show a clear narrative progression from a display of magical power over London to the resulting diplomatic negotiations, maintaining consistent Victorian era setting and thematic elements.",0.7,0.8,"{
+    ""img1"": {
+        ""biases"": {
+            ""genderBias"": ""Portrayal of feminine power through supernatural/mystical means rather than institutional authority"",
+            ""culturalBias"": ""Western-centric architectural and clothing styles"",
+            ""powerDynamics"": ""Magical superiority over mundane authority""
+        }
+    },
+    ""img2"": {
+        ""biases"": {
+            ""genderBias"": ""Male-dominated political sphere"",
+            ""classBias"": ""Upper-class Victorian formal attire and setting"",
+            ""culturalBias"": ""European/British-centric representation of power""
+        }
+    }
+}","{
+    ""consistent_elements"": [
+        ""Victorian London architecture"",
+        ""Gothic spires and buildings"",
+        ""Dramatic lighting"",
+        ""Period-appropriate clothing"",
+        ""Ornate decorative elements""
+    ]
+}","{
+    ""elements_from_previous_to_current"": [
+        {""element"": ""Victorian London"", ""type"": ""setting"", ""description"": ""Maintains consistent architectural backdrop""},
+        {""element"": ""Power dynamics"", ""type"": ""mood"", ""description"": ""Shifts from magical confrontation to political negotiation""},
+        {""element"": ""Gothic architecture"", ""type"": ""aesthetic"", ""description"": ""Visible in both exterior and interior scenes""},
+        {""element"": ""Period-specific fashion"", ""type"": ""aesthetic"", ""description"": ""Consistent Victorian era clothing styles""}
+    ]
+}"
